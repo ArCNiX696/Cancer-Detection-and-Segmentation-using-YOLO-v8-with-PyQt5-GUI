@@ -1,8 +1,13 @@
-TO TRY THIS PROJECT , JUST NEED TO OPEN SNOW_MAIN .PY FILE , THEN LOAD A DATASET FROM THE FORLDER DATASET OR YOU CAN LOAD YOUR OWN DATASET
+Getting Started with the Project
 
-DO NOT DELETE THE FOLDER Sorted Data IN DATASET FOLDER
+To experience this project, simply follow these steps:
 
+Open the snow_main.py file.
+Load a dataset from the dataset folder, or alternatively, you can use your own dataset.
+Important Note:
+Do not delete the Sorted Data folder within the dataset directory.
 
-.pt files with detect name are models for detection
+Model Files:
 
-.pt files with segment name are models for segmentation
+Files with the extension .pt and a "detect" in their name are dedicated to detection models.
+Files with the extension .pt and a "segment" in their name are intended for segmentation models.
